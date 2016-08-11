@@ -12,6 +12,12 @@ h1 {
 h2{
 	font-weight: lighter;
 	font-size: 0.8em;
-	color: #9E9DA7;
+	;
 }
 
+a {
+	color: #9E9DA7  
+}	
+a:hover {
+	color: #EFE6DF; 
+}
